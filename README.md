@@ -34,5 +34,5 @@ pip install -r requirements.txt
 ## Running the Project
 Run the following command to execute the model:
 ```bash
-python main.py
+python Interpret_RF_Shap_BrestCancer.py
 ```
