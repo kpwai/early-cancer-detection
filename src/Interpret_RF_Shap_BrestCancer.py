@@ -9,7 +9,7 @@ import shap
 import joblib
 
 # Step 1: Load the dataset
-df = pd.read_csv('Breast Cancer Wisconsin (Diagnostic).csv')
+df = pd.read_csv('data/Breast Cancer Wisconsin (Diagnostic).csv')
 
 # Step 2: Data Preprocessing
 # Encode the target variable
